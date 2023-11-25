@@ -11,9 +11,7 @@ public class Test {
         StringUtility.printEachChar(str);
 
 
-
     }
-
 
 
 }
